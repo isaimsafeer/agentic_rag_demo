@@ -1,0 +1,8 @@
+crewai
+crewai-tools
+langchain-community
+openai
+langchain-groq
+langchain_huggingface
+langchain
+PyPDF2
